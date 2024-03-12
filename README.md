@@ -1,0 +1,2 @@
+# Django-CRM-Project
+ DjangoCRM Project is a robust Customer Relationship Management system built with Django, offering users a seamless experience to manage records. Users can create an account, log in, and effortlessly handle customer information by creating, updating, and deleting records. The project incorporates essential features like authentication, real-time notifications for sign-in/out, record creation, and updates. Utilizing Bootstrap, Crispy Form, Bootswatch, and Font Awesome, DjangoCRM ensures a visually appealing and user-friendly interface.
